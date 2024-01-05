@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on multiple idea and projects<br>🌱 I’m currently learning ROS 1 and 2<br>💬 Ask me about Robotics<br>⚡ Fun fact I'm 6'3
+🔭 I’m currently working on multiple idea and projects<br>🌱 I’m currently learning ROS 1 and 2<br>💬 Ask me about Robotics<br>⚡ Fun fact I don't know what I'm doing
 
 
 ## 🌐 Socials:
